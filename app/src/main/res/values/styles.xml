@@ -12,4 +12,8 @@
 
     </style>
 
+    <style name="RaiseButton" parent="Widget.AppCompat.Button.Colored">
+
+    </style>
+
 </resources>
